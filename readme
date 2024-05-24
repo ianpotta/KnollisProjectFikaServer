@@ -1,0 +1,19 @@
+Automated PS Script to install fika server pack
+Script Version: 0.33
+Author: Codsworth
+Last Updated: 24-05-2024
+Discord: 
+
+
+
+How to install
+1)Create empty folder called SPT on any drive (C drive is default for launcher but can be changed)
+2)Copy contents into emtpy game folder. MUST BE EMPTY FOLDER.
+3)Run the setup.bat file
+
+How to update
+
+Run update.bat file
+Bug Reports
+
+Use the discord invite above and report to Max
